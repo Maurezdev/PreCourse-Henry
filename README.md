@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Realización de curso propedutico del bootcamp fullstack de henry
+Realización de curso propedeutico del bootcamp fullstack de henry
